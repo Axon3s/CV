@@ -3,4 +3,12 @@
     width:200px;
     height:200px;
     border-radius:100%;
+
+
+.gris
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    filter: grayscale(100%);
 }
